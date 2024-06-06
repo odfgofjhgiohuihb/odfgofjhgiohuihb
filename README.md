@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @odfgofjhgiohuihb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Khalid Saghouane
+- 👀 I’m interested in programmation
+- 🌱 I’m currently learning programmation
+- 💞️ I’m looking to collaborate on, I don't know hhh
+
 
 <!---
 odfgofjhgiohuihb/odfgofjhgiohuihb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
